@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    }
+    header, main, footer {
+    text-align: center;
+    }
+    nav ul {
+    list-style: none;
+    padding: 0;
+    }
+    nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    nav ul li a {
+    text-decoration: none;
+    color: blue;
+    }
+    h1, h2 {
+    background-color: #303030;
+    color: white;
+    }
+    .game {
+    display: inline-block;
+    margin: 10px;
+    }
+    .game img {
+    width: 100px;
+    height: 100px;
+    }
+    .game p {
+    color: green;
+    }
+    .game:hover {
+    transform: scale(1.1);
+    }
+    @media (max-width: 768px) {
+    .game {
+    display: block;
+    margin: auto;
+    }
+    }
+    h1 {
+    font-size: 2em;
+    }
+    .game img {
+    width: 300px;
+    height: 300px;
+    }
+      
+    

@@ -1,0 +1,40 @@
+Prompt 1:
+
+I want you to make a project with the prompts I will give you.
+In this project, I want you to create a web portfolio / gallery website containing games from the categories of computer, mobile and console games.
+You will create the website with HTML, CSS and JavaScript codes.
+Let there be three games for each category and pictures of each game.
+Let the image names be category1-1, category1-2, category1-3 and these names should be found as image files in the code. In this way, the file location of 3 images in each category, a total of 9 images, should be specified.
+Ignore the pictures for now. Consider that there are only existing images and create an area for these images on the page.
+Under each picture there should be explanations about the types of games.
+Name the codes and images you create so that they are placed in a single file.
+The file locations of the images will be added to the relevant places in the codes.
+Games in the same category should be side by side, games in different categories should be under each other.
+Clicking on each relevant category name in the created categories section should bring you to that part of the page.
+I want the contents on the page to be positioned evenly to each other and to the edges of the page.
+All content should be in the middle of the page and have various visual effects.
+When the cursor hovers over each game, the blog of that game will expand slightly.
+Title, category and description texts should be in different colors.
+The background of the titles and categories should be gray.
+The website must be compatible for devices with different screen sizes such as computers, tablets and phones.
+Semantic tags should be used in the HTML structure.
+All codes created must be error-free and compatible with current vehicle versions.
+I want you to provide HTML, CSS and Javascript codes separately.
+Do not add any explanations or comment lines to the codes.
+
+Prompt 2:
+
+I just want you to make additions to the HTML, CSS and JavaScript codes you gave as output at the beginning, without changing or shortening them. There should be no comment lines in the codes. Remove the main title background and replace it with a slightly larger, very dark gray background and include the categories in this background. Fix other background colors to this color as well. Triple the size of game posters and change game descriptions to PC game 1, 2, 3, mobile game 1, 2, 3, console game 1, 2, 3. Make additions to HTML, CSS and JavaScript codes separately.
+
+
+Prompts for creating images:
+
+Draw 3 posters of games with different names and genres. Let each poster be an independent image. No 3 pictures together or next to each other.
+
+Draw more
+
+Draw football games posters
+
+not american football
+
+just one poster
