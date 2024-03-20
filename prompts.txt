@@ -24,7 +24,12 @@ Do not add any explanations or comment lines to the codes.
 
 Prompt 2:
 
-I just want you to make additions to the HTML, CSS and JavaScript codes you gave as output at the beginning, without changing or shortening them. There should be no comment lines in the codes. Remove the main title background and replace it with a slightly larger, very dark gray background and include the categories in this background. Fix other background colors to this color as well. Triple the size of game posters and change game descriptions to PC game 1, 2, 3, mobile game 1, 2, 3, console game 1, 2, 3. Make additions to HTML, CSS and JavaScript codes separately.
+I just want you to make additions to the HTML, CSS and JavaScript codes you gave as output at the beginning, without changing or shortening them.
+There should be no comment lines in the codes.
+Remove the main title background and replace it with a slightly larger, very dark gray background and include the categories in this background.
+Fix other background colors to this color as well.
+Triple the size of game posters and change game descriptions to PC game 1, 2, 3, mobile game 1, 2, 3, console game 1, 2, 3.
+Make additions to HTML, CSS and JavaScript codes separately.
 
 
 Prompts for creating images:
